@@ -17,7 +17,9 @@
     <h3>Reach out:</h3>
     <a href="[https://billyfryer.com/](https://billyfryer.com/)"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/billy-fryer/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
-    <a href="https://github.com/billyfryer"><img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
+    <a href="https://github.com/billyfryer"><img src="https://img.shields.io/github/followers/billyfryer?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
+    <!-- Something about this isn't working for Twitter/X -->
+    <!-- <a href="https://x.com/BillyFryer42"><img src="https://img.shields.io/github/followers/BillyFryer42?&color=black&label=X&logo=X&style=flat-square"> </a> -->
   </div>
 
 
