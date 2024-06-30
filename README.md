@@ -5,7 +5,7 @@
   <hr>
   <h2>About Me:</h2>
   <h3>I am currently the Basketball Data Analyst for the Indiana Fever - the second one in the entire WNBA. I am from Columbiana, Alabama - a small town halfway between Birmingham and Montgomery. I graduated from North Carolina State University with degrees Statistics and Spanish.
-
+<hr>
 I previously worked with the NC State Women’s Basketball (2021-2023) and Baseball (2019-2023) teams. I was also the President of the Sports Analytics Club at NC State from 2021-2023. I also interned with John Deere in Summer 2021 and with Sports Reference in Summer 2022 contributing to their launch of the Women’s College Basketball site!  </h3>
   <hr>
   <div>
