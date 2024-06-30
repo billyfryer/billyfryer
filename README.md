@@ -8,11 +8,11 @@
   <hr>
   <h2>Past Experience Me:</h2>
     <h3>
-- Indiana Fever Basketball Data Analyst (2023-Present) <hr>
-- NC State Women’s Basketball (2021-2023) <hr>
-- NC State Baseball (2019-2023) <hr>
-- Sports Reference (Summer 2022) <hr>
-- John Deere (Summer 2021)
+<li> Indiana Fever Basketball Data Analyst (2023-Present) </li>
+<li> NC State Women’s Basketball (2021-2023) </li>
+<li> NC State Baseball (2019-2023) </li>
+<li> Sports Reference (Summer 2022) </li>
+<li> John Deere (Summer 2021) </li>
   </h3>
   <hr>
   <div>
