@@ -1,9 +1,6 @@
 <div align="center">  
   <img align="center" src="https://github.com/billyfryer/billyfryer/assets/78826421/2ea8408c-1d99-4268-80f9-f124aa4f1a33">
   <hr>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=billyfryer&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billyfryer&layout=compact&theme=react" /></a> 
-  <hr>
   <h2>About Me:</h2>
   <h3>I am currently the Basketball Data Analyst for the Indiana Fever - the second one in the entire WNBA. I am from Columbiana, Alabama - a small town halfway between Birmingham and Montgomery. I graduated from North Carolina State University with degrees Statistics and Spanish.
   <hr>
