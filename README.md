@@ -1,5 +1,5 @@
-<div align="center">
-  <img align="center" src="[https://live.staticflickr.com/65535/51471553115_14a959f5fb_h.jpg](https://media.licdn.com/dms/image/C4D03AQHfPVC--qgbQg/profile-displayphoto-shrink_800_800/0/1616278615399?e=1725494400&v=beta&t=ZcYkrH5WOg03dE5E0YOKyp8Q1pI13GZ0gbtYZbdge-4)">
+<div align="center">  
+  <img align="center" src="https://billyfryer.com/about/sidebar/avatar.jpg">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=billyfryer&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billyfryer&layout=compact&theme=react" /></a> 
   <hr>
