@@ -1,5 +1,5 @@
- ![CJD_6142](https://github.com/billyfryer/billyfryer/assets/78826421/2ea8408c-1d99-4268-80f9-f124aa4f1a33)
 <div align="center">  
+  <img align="center" src="https://github.com/billyfryer/billyfryer/assets/78826421/2ea8408c-1d99-4268-80f9-f124aa4f1a33">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=billyfryer&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billyfryer&layout=compact&theme=react" /></a> 
   <hr>
