@@ -4,7 +4,7 @@
   <h2>About Me:</h2>
   <h3>I am currently the Basketball Data Analyst for the Indiana Fever - the second one in the entire WNBA. I am from Columbiana, Alabama - a small town halfway between Birmingham and Montgomery. I graduated from North Carolina State University with degrees Statistics and Spanish.
   <hr>
-  <h2>Past Experience Me:</h2>
+  <h2>My Past Experience:</h2>
     <h3>
 <li> Indiana Fever Basketball Data Analyst (2023-Present) </li>
 <li> NC State Women’s Basketball (2021-2023) </li>
