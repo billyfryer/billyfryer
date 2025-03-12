@@ -2,11 +2,12 @@
   <img align="center" src="https://github.com/billyfryer/billyfryer/assets/78826421/2ea8408c-1d99-4268-80f9-f124aa4f1a33">
   <hr>
   <h2>About Me:</h2>
-  <h3>I am currently the Basketball Data Analyst for the Indiana Fever in the WNBA. I am from Columbiana, Alabama - a small town halfway between Birmingham and Montgomery. I graduated from North Carolina State University with degrees Statistics and Spanish.
+  <h3>I am currently the Coordinator for the SMT Data Challenge and work with the SMT-U group at SportsMEDIA Technology. I am from Columbiana, Alabama - a small town halfway between Birmingham and Montgomery. I graduated from North Carolina State University with degrees Statistics and Spanish.
   <hr>
   <h2>My Past Experience:</h2>
     <h3>
-<li> Indiana Fever Basketball Data Analyst (2023-Present) </li>
+<li> SMT Data Analyst (2025-Present) </li>
+<li> Indiana Fever Basketball Data Analyst (2023-2024) </li>
 <li> NC State Women’s Basketball (2021-2023) </li>
 <li> NC State Baseball (2019-2023) </li>
 <li> Sports Reference (Summer 2022) </li>
