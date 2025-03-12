@@ -6,7 +6,7 @@
   <hr>
   <h2>My Past Experience:</h2>
     <h3>
-<li> SMT Data Analyst (2025-Present) </li>
+<li> SMT (2025-Present) </li>
 <li> Indiana Fever Basketball Data Analyst (2023-2024) </li>
 <li> NC State Women’s Basketball (2021-2023) </li>
 <li> NC State Baseball (2019-2023) </li>
