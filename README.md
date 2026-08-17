@@ -2,11 +2,14 @@
   <img align="center" src="https://github.com/billyfryer/billyfryer/assets/78826421/2ea8408c-1d99-4268-80f9-f124aa4f1a33">
   <hr>
   <h2>About Me:</h2>
-  <h3>I am currently the Coordinator for the SMT Data Challenge and work with the SMT-U group at SportsMEDIA Technology. I am from Columbiana, Alabama - a small town halfway between Birmingham and Montgomery. I graduated from North Carolina State University with degrees Statistics and Spanish.
+  <h3>I am currently the Video and Data Coordinator for Oklahoma Softball.</h3>
+  <h3>I am from Columbiana, Alabama - a small town halfway between Birmingham and Montgomery.</h3>
+  <h3>I graduated from North Carolina State University with degrees Statistics and Spanish.</h3>
   <hr>
   <h2>My Past Experience:</h2>
     <h3>
-<li> SMT (2025-Present) </li>
+<li> Oklahoma Softball (2026-Present) </li>
+<li> SMT (2025-2026) </li>
 <li> Indiana Fever Basketball Data Analyst (2023-2024) </li>
 <li> NC State Women’s Basketball (2021-2023) </li>
 <li> NC State Baseball (2019-2023) </li>
