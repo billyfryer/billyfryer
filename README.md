@@ -10,7 +10,7 @@
     <h3>
 <li> Oklahoma Softball (2026-Present) </li>
 <li> SMT (2025-2026) </li>
-<li> Indiana Fever Basketball Data Analyst (2023-2024) </li>
+<li> Indiana Fever (2023-2024) </li>
 <li> NC State Women’s Basketball (2021-2023) </li>
 <li> NC State Baseball (2019-2023) </li>
 <li> Sports Reference (Summer 2022) </li>
